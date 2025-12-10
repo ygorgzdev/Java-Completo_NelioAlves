@@ -1,3 +1,5 @@
+package Main;
+
 import java.util.Locale;
 
 public class Main {
@@ -31,5 +33,6 @@ public class Main {
         System.out.printf ("O número %.2f e o número %.3f são números de ponto flutuante\n", x, y);
 
         System.out.printf("A %s é muito linda. Ela tem %d anos e ganha %.1f na empresa em que trabalha", nome, idade, salario); // Cada tipo tem sua %f respectiva
+
     }
 }
